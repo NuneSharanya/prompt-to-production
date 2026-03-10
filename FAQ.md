@@ -91,9 +91,10 @@ We recommend **VS Code**, **Cursor**, **Antigravity**, or **Trae**.
 
 ### 💻 CLI-based AI Coding
 If you prefer working entirely in the terminal, check out:
-1. **Aider:** A popular CLI tool that lets you edit code in your terminal using AI. (Requires an API key).
-2. **Mentat:** An open-source AI coding assistant that lives in your terminal and can understand your entire codebase.
-3. **Open Interpreter:** Allows the AI to run code locally in your terminal to perform tasks (highly recommended for advanced users).
+1. **Gemini CLI:** A powerful AI-native terminal agent (the one you're interacting with!) that can analyze code, run tests, and manage your entire git workflow.
+2. **Aider:** A popular CLI tool that lets you edit code in your terminal using AI. (Requires an API key).
+3. **Mentat:** An open-source AI coding assistant that lives in your terminal and can understand your entire codebase.
+4. **Open Interpreter:** Allows the AI to run code locally in your terminal to perform tasks (highly recommended for advanced users).
 
 ### Can I use these in WSL?
 Yes! All of these tools (IDEs and CLI tools) work perfectly with WSL. Just run them from your WSL terminal.
